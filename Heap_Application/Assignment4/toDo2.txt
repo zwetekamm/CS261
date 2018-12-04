@@ -1,0 +1,13 @@
+1, say hello
+
+3, same priority
+
+3, another
+
+3, and another
+
+3, suprise it's another
+
+0, beginning
+
+9, say goodbye

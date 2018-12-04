@@ -1,0 +1,11 @@
+0, take a nap
+
+1, sudy heap-based priority queue
+
+101, review trees for Midterm
+
+3, do assignmnet 5
+
+8, bar
+
+7, foo
