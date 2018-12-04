@@ -1,6 +1,4 @@
 # CS261
-Data Structures
-
 Data Structures in C programming
 
 ---
