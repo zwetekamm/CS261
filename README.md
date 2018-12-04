@@ -13,7 +13,7 @@ Hash Map, Graph
 
 ---
 
-Programming assignments were partially completed and we had to complete implemention--and often debug--errors from the original code.
+Programming assignments were partially written and we had to complete implemention--and often debug--errors from the original code.
 
 Assignment 1: C Practice
 
